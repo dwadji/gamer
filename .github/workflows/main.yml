@@ -40,8 +40,8 @@ jobs:
         if [ -d "database" ];then cp -rfp database epic/src/; fi
         cd epic/src/
         ${{ env.COMMAND_CLAIM }}
-        ${{ env.COMMAND_GET }} # Optional
-        ${{ env.COMMAND_UNREAL }} # Optional
+        # ${{ env.COMMAND_GET }} # Optional
+        # ${{ env.COMMAND_UNREAL }} # Optional
     - name: Setup GIT user
       uses: fregante/setup-git-user@v1
     - name: 缓存身份令牌
