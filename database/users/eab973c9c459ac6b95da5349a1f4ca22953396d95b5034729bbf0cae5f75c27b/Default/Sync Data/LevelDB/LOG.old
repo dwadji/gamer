@@ -1,2 +1,3 @@
-2022/12/27-14:24:56.038 7d4 Creating DB /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Sync Data/LevelDB since it was missing.
-2022/12/27-14:24:56.041 7d4 Reusing MANIFEST /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/12/28-09:46:21.197 7a1 Reusing MANIFEST /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/12/28-09:46:21.197 7a1 Recovering log #3
+2022/12/28-09:46:21.197 7a1 Reusing old log /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Sync Data/LevelDB/000003.log 
