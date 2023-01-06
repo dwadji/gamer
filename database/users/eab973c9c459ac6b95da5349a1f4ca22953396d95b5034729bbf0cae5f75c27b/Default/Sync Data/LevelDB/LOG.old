@@ -1,3 +1,3 @@
-2023/01/04-09:50:08.794 80d Reusing MANIFEST /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Sync Data/LevelDB/MANIFEST-000001
-2023/01/04-09:50:08.795 80d Recovering log #3
-2023/01/04-09:50:08.795 80d Reusing old log /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Sync Data/LevelDB/000003.log 
+2023/01/05-09:52:44.763 7a1 Reusing MANIFEST /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/01/05-09:52:44.763 7a1 Recovering log #3
+2023/01/05-09:52:44.763 7a1 Reusing old log /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Sync Data/LevelDB/000003.log 
