@@ -5176,3 +5176,76 @@ playwright._impl._api_types.TimeoutError: Timeout 30000ms exceeded.
 =========================== logs ===========================
   waiting for frame "xpath=//div[@id='webPurchaseContainer']//iframe"
 ============================================================
+2023-01-22 09:55:22.468 | INFO     | services.deploy:job_loop_claim:104 - >> STARTUP [AwesomeScheduler] SynergyTunnel - version=0.4.4-dev Pattern=False
+2023-01-22 09:55:23.547 | INFO     | services.bricklayer.core:refresh_ctx_cookies:691 - >> MATCH [__context__] 🎮启动挑战者上下文
+2023-01-22 09:55:23.601 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-01-22 09:55:34.479 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-01-22 09:55:34.479 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-01-22 09:55:36.708 | DEBUG    | hcaptcha_challenger.core:log:315 - >> Challenge [ArmorCaptcha] Get label - label=「盆中雏菊」
+2023-01-22 09:55:36.709 | DEBUG    | hcaptcha_challenger.core:log:315 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-01-22 09:55:37.175 | DEBUG    | hcaptcha_challenger.core:log:315 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-01-22 09:55:38.632 | DEBUG    | hcaptcha_challenger.core:log:315 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.46s
+2023-01-22 09:55:38.891 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-01-22 09:55:48.632 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-01-22 09:55:48.633 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-01-22 09:55:50.787 | DEBUG    | hcaptcha_challenger.core:log:315 - >> Challenge [ArmorCaptcha] Get label - label=「森林中熊猫」
+2023-01-22 09:55:50.788 | DEBUG    | hcaptcha_challenger.core:log:315 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-01-22 09:55:51.187 | DEBUG    | hcaptcha_challenger.core:log:315 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-01-22 09:55:52.609 | DEBUG    | hcaptcha_challenger.core:log:315 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.42s
+2023-01-22 09:55:52.815 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_asset:320 - Downloading panda_in_a_forest.onnx from https://github.com/QIN2DIM/hcaptcha-challenger/releases/download/model/panda_in_a_forest.onnx
+2023-01-22 09:55:55.155 | DEBUG    | hcaptcha_challenger.core:log:315 - >> Challenge [ArmorCaptcha] Submit the challenge - panda_in_a_forest(ResNet)_model: 1.05s
+2023-01-22 09:55:55.166 | DEBUG    | hcaptcha_challenger.core:log:315 - >> Challenge [ArmorCaptcha] 获取响应 - desc=继续挑战(continue)
+2023-01-22 09:56:07.279 | ERROR    | services.scaffold:claim:138 - An error has been caught in function 'claim', process 'MainProcess' (1952), thread 'MainThread' (139637560609856):
+Traceback (most recent call last):
+  File "/home/runner/work/gamer/gamer/epic/src/services/bricklayer/core.py", line 81, in get_label
+    self.prompt = frame_challenge.locator("//h2[@class='prompt-text']").text_content(
+  File "/opt/hostedtoolcache/Python/3.10.9/x64/lib/python3.10/site-packages/playwright/sync_api/_generated.py", line 15059, in text_content
+    self._sync(self._impl_obj.text_content(timeout=timeout))
+  File "/opt/hostedtoolcache/Python/3.10.9/x64/lib/python3.10/site-packages/playwright/_impl/_sync_base.py", line 104, in _sync
+    return task.result()
+  File "/opt/hostedtoolcache/Python/3.10.9/x64/lib/python3.10/site-packages/playwright/_impl/_locator.py", line 526, in text_content
+    return await self._frame.text_content(
+  File "/opt/hostedtoolcache/Python/3.10.9/x64/lib/python3.10/site-packages/playwright/_impl/_frame.py", line 598, in text_content
+    return await self._channel.send("textContent", locals_to_params(locals()))
+  File "/opt/hostedtoolcache/Python/3.10.9/x64/lib/python3.10/site-packages/playwright/_impl/_connection.py", line 43, in send
+    return await self._connection.wrap_api_call(
+  File "/opt/hostedtoolcache/Python/3.10.9/x64/lib/python3.10/site-packages/playwright/_impl/_connection.py", line 396, in wrap_api_call
+    return await cb()
+  File "/opt/hostedtoolcache/Python/3.10.9/x64/lib/python3.10/site-packages/playwright/_impl/_connection.py", line 78, in inner_send
+    result = next(iter(done)).result()
+playwright._impl._api_types.TimeoutError: Timeout 10000ms exceeded.
+=========================== logs ===========================
+  waiting for frame "xpath=//iframe[contains(@title, 'hCaptcha挑战')]"
+  selector resolved to hidden <iframe scrolling="no" frameborder="0" aria-hidden="true…></iframe>
+waiting for selector "//iframe[contains(@title, 'hCaptcha挑战')] >> internal:control=enter-frame >> //h2[@class='prompt-text']"
+============================================================
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/work/gamer/gamer/epic/src/main.py", line 11, in <module>
+    Fire(Scaffold)
+  File "/opt/hostedtoolcache/Python/3.10.9/x64/lib/python3.10/site-packages/fire/core.py", line 141, in Fire
+    component_trace = _Fire(component, args, parsed_flag_args, context, name)
+  File "/opt/hostedtoolcache/Python/3.10.9/x64/lib/python3.10/site-packages/fire/core.py", line 466, in _Fire
+    component, remaining_args = _CallAndUpdateTrace(
+  File "/opt/hostedtoolcache/Python/3.10.9/x64/lib/python3.10/site-packages/fire/core.py", line 681, in _CallAndUpdateTrace
+    component = fn(*varargs, **kwargs)
+> File "/home/runner/work/gamer/gamer/epic/src/services/scaffold.py", line 138, in claim
+    claimer.run(silence=silence, log_ignore=ignore, unreal=unreal)
+  File "/home/runner/work/gamer/gamer/epic/src/apis/scaffold/claimer.py", line 26, in run
+    ClaimerScheduler(silence=silence, unreal=unreal).job_loop_claim(log_ignore)
+  File "/home/runner/work/gamer/gamer/epic/src/services/deploy.py", line 112, in job_loop_claim
+    claimer.just_do_it()
+  File "/home/runner/work/gamer/gamer/epic/src/services/deploy.py", line 309, in just_do_it
+    fire(
+  File "/home/runner/work/gamer/gamer/epic/src/services/utils/toolbox.py", line 84, in fire
+    container(context)
+  File "/home/runner/work/gamer/gamer/epic/src/services/bricklayer/core.py", line 708, in refresh_ctx_cookies
+    resp = self.armor.anti_hcaptcha(page, window="login", recur_url=recur_url)
+  File "/home/runner/work/gamer/gamer/epic/src/services/bricklayer/core.py", line 251, in anti_hcaptcha
+    self.get_label(frame_challenge)
+  File "/home/runner/work/gamer/gamer/epic/src/services/bricklayer/core.py", line 85, in get_label
+    raise ChallengePassed("Man-machine challenge unexpectedly passed")
+hcaptcha_challenger.exceptions.ChallengePassed: Message: Man-machine challenge unexpectedly passed
+
