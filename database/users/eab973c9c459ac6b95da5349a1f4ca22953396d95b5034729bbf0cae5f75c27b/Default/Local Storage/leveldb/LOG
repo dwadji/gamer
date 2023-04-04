@@ -1,6 +1,4 @@
-2023/04/03-09:39:36.769 832 Reusing MANIFEST /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Local Storage/leveldb/MANIFEST-000001
-2023/04/03-09:39:36.770 832 Recovering log #3
-2023/04/03-09:39:36.771 832 Reusing old log /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Local Storage/leveldb/000003.log 
-2023/04/03-09:42:41.165 832 Level-0 table #5: started
-2023/04/03-09:42:41.167 832 Level-0 table #5: 6709 bytes OK
-2023/04/03-09:42:41.169 832 Delete type=0 #3
+2023/04/04-09:44:52.603 7b7 Reusing MANIFEST /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Local Storage/leveldb/MANIFEST-000001
+2023/04/04-09:44:52.617 7b7 Recovering log #4
+2023/04/04-09:44:52.618 7b7 Reusing old log /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Local Storage/leveldb/000004.log 
+2023/04/04-09:44:52.618 7b7 Delete type=0 #3
