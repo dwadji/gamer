@@ -1,6 +1,6 @@
-2023/04/14-09:39:52.063 7ee Reusing MANIFEST /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Session Storage/MANIFEST-000001
-2023/04/14-09:39:52.064 7ee Recovering log #11
-2023/04/14-09:39:52.064 7ee Reusing old log /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Session Storage/000011.log 
-2023/04/14-09:39:52.066 7ee Delete type=0 #7
-2023/04/14-09:39:52.066 7ee Delete type=0 #4
-2023/04/14-09:39:52.066 7ee Delete type=0 #3
+2023/04/15-09:43:31.806 7e1 Reusing MANIFEST /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Session Storage/MANIFEST-000001
+2023/04/15-09:43:31.806 7e1 Recovering log #11
+2023/04/15-09:43:31.807 7e1 Reusing old log /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Session Storage/000011.log 
+2023/04/15-09:43:31.807 7e1 Delete type=0 #7
+2023/04/15-09:43:31.807 7e1 Delete type=0 #4
+2023/04/15-09:43:31.807 7e1 Delete type=0 #3
