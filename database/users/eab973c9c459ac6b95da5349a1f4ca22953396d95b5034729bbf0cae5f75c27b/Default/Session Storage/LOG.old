@@ -1,7 +1,22 @@
-2023/05/28-09:57:32.396 84d Reusing MANIFEST /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Session Storage/MANIFEST-000001
-2023/05/28-09:57:32.398 84d Recovering log #13
-2023/05/28-09:57:32.399 84d Reusing old log /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Session Storage/000013.log 
-2023/05/28-09:57:32.407 84d Delete type=0 #4
-2023/05/28-09:57:32.407 84d Delete type=0 #7
-2023/05/28-09:57:32.410 84d Delete type=0 #11
-2023/05/28-09:57:32.410 84d Delete type=0 #3
+2023/05/29-09:50:42.584 7e0 Reusing MANIFEST /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Session Storage/MANIFEST-000001
+2023/05/29-09:50:42.585 7e0 Recovering log #13
+2023/05/29-09:50:42.585 7e0 Reusing old log /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Session Storage/000013.log 
+2023/05/29-09:50:42.586 7e0 Delete type=0 #4
+2023/05/29-09:50:42.586 7e0 Delete type=0 #7
+2023/05/29-09:50:42.586 7e0 Delete type=0 #11
+2023/05/29-09:50:42.598 7e0 Delete type=0 #3
+2023/05/29-10:06:30.342 7e0 Level-0 table #17: started
+2023/05/29-10:06:30.344 7e0 Level-0 table #17: 13021 bytes OK
+2023/05/29-10:06:30.346 7e0 Delete type=0 #13
+2023/05/29-10:10:34.799 7e0 Level-0 table #19: started
+2023/05/29-10:10:34.803 7e0 Level-0 table #19: 6871 bytes OK
+2023/05/29-10:10:34.807 7e0 Delete type=0 #16
+2023/05/29-10:10:34.807 7e0 Compacting 4@0 + 1@1 files
+2023/05/29-10:10:34.812 7e0 Generated table #20@0: 921 keys, 22814 bytes
+2023/05/29-10:10:34.813 7e0 Compacted 4@0 + 1@1 files => 22814 bytes
+2023/05/29-10:10:34.814 7e0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/29-10:10:34.815 7e0 Delete type=2 #19
+2023/05/29-10:10:34.815 7e0 Delete type=2 #10
+2023/05/29-10:10:34.815 7e0 Delete type=2 #14
+2023/05/29-10:10:34.815 7e0 Delete type=2 #17
+2023/05/29-10:10:34.815 7e0 Delete type=2 #8
