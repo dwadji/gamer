@@ -1,14 +1,26 @@
-2023/06/15-09:53:22.962 81e Reusing MANIFEST /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Session Storage/MANIFEST-000001
-2023/06/15-09:53:22.963 81e Recovering log #28
-2023/06/15-09:53:22.963 81e Reusing old log /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Session Storage/000028.log 
-2023/06/15-09:53:22.964 81e Delete type=0 #18
-2023/06/15-09:53:22.964 81e Delete type=0 #22
-2023/06/15-09:53:22.964 81e Delete type=0 #4
-2023/06/15-09:53:22.964 81e Delete type=0 #11
-2023/06/15-09:53:22.964 81e Delete type=2 #8
-2023/06/15-09:53:22.964 81e Delete type=0 #7
-2023/06/15-09:53:22.964 81e Delete type=2 #10
-2023/06/15-09:53:22.964 81e Delete type=2 #14
-2023/06/15-09:53:22.964 81e Delete type=0 #3
-2023/06/15-09:53:22.964 81e Delete type=0 #13
-2023/06/15-09:53:22.964 81e Delete type=0 #25
+2023/06/16-09:55:27.037 88b Reusing MANIFEST /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Session Storage/MANIFEST-000001
+2023/06/16-09:55:27.038 88b Recovering log #28
+2023/06/16-09:55:27.038 88b Reusing old log /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Session Storage/000028.log 
+2023/06/16-09:55:27.039 88b Delete type=0 #22
+2023/06/16-09:55:27.039 88b Delete type=0 #4
+2023/06/16-09:55:27.039 88b Delete type=2 #8
+2023/06/16-09:55:27.039 88b Delete type=0 #3
+2023/06/16-09:55:27.039 88b Delete type=0 #18
+2023/06/16-09:55:27.039 88b Delete type=0 #7
+2023/06/16-09:55:27.039 88b Delete type=0 #11
+2023/06/16-09:55:27.040 88b Delete type=0 #25
+2023/06/16-09:55:27.040 88b Delete type=0 #13
+2023/06/16-09:55:27.040 88b Delete type=2 #10
+2023/06/16-09:55:27.040 88b Delete type=2 #14
+2023/06/16-10:17:30.574 88b Level-0 table #32: started
+2023/06/16-10:17:30.576 88b Level-0 table #32: 8861 bytes OK
+2023/06/16-10:17:30.578 88b Delete type=0 #28
+2023/06/16-10:17:30.579 88b Compacting 4@0 + 1@1 files
+2023/06/16-10:17:30.582 88b Generated table #33@0: 1049 keys, 25654 bytes
+2023/06/16-10:17:30.582 88b Compacted 4@0 + 1@1 files => 25654 bytes
+2023/06/16-10:17:30.583 88b compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/16-10:17:30.584 88b Delete type=2 #23
+2023/06/16-10:17:30.584 88b Delete type=2 #20
+2023/06/16-10:17:30.584 88b Delete type=2 #32
+2023/06/16-10:17:30.584 88b Delete type=2 #29
+2023/06/16-10:17:30.584 88b Delete type=2 #26
