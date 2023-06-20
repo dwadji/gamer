@@ -1,14 +1,14 @@
-2023/06/19-09:55:59.909 7de Reusing MANIFEST /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Local Storage/leveldb/MANIFEST-000001
-2023/06/19-09:55:59.911 7de Recovering log #27
-2023/06/19-09:55:59.915 7de Reusing old log /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Local Storage/leveldb/000027.log 
-2023/06/19-09:55:59.915 7de Delete type=0 #22
-2023/06/19-09:55:59.915 7de Delete type=0 #15
-2023/06/19-09:55:59.916 7de Delete type=0 #4
-2023/06/19-09:55:59.916 7de Delete type=2 #8
-2023/06/19-09:55:59.916 7de Delete type=2 #13
-2023/06/19-09:55:59.917 7de Delete type=0 #3
-2023/06/19-09:55:59.917 7de Delete type=0 #18
-2023/06/19-09:55:59.917 7de Delete type=0 #12
-2023/06/19-09:55:59.917 7de Delete type=0 #9
-2023/06/19-09:55:59.917 7de Delete type=2 #16
-2023/06/19-09:55:59.917 7de Delete type=2 #10
+2023/06/20-09:49:56.384 832 Reusing MANIFEST /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Local Storage/leveldb/MANIFEST-000001
+2023/06/20-09:49:56.388 832 Recovering log #27
+2023/06/20-09:49:56.390 832 Reusing old log /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Local Storage/leveldb/000027.log 
+2023/06/20-09:49:56.391 832 Delete type=0 #22
+2023/06/20-09:49:56.391 832 Delete type=0 #15
+2023/06/20-09:49:56.391 832 Delete type=0 #4
+2023/06/20-09:49:56.391 832 Delete type=2 #8
+2023/06/20-09:49:56.391 832 Delete type=2 #13
+2023/06/20-09:49:56.392 832 Delete type=0 #3
+2023/06/20-09:49:56.392 832 Delete type=0 #18
+2023/06/20-09:49:56.392 832 Delete type=0 #12
+2023/06/20-09:49:56.392 832 Delete type=0 #9
+2023/06/20-09:49:56.392 832 Delete type=2 #16
+2023/06/20-09:49:56.392 832 Delete type=2 #10
