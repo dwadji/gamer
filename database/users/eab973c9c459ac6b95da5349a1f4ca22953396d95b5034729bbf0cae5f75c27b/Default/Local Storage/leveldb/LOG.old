@@ -1,19 +1,19 @@
-2023/06/24-10:05:49.462 848 Reusing MANIFEST /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Local Storage/leveldb/MANIFEST-000001
-2023/06/24-10:05:49.464 848 Recovering log #30
-2023/06/24-10:05:49.464 848 Reusing old log /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Local Storage/leveldb/000030.log 
-2023/06/24-10:05:49.465 848 Delete type=0 #15
-2023/06/24-10:05:49.465 848 Delete type=0 #18
-2023/06/24-10:05:49.465 848 Delete type=0 #4
-2023/06/24-10:05:49.465 848 Delete type=2 #8
-2023/06/24-10:05:49.465 848 Delete type=2 #28
-2023/06/24-10:05:49.465 848 Delete type=0 #9
-2023/06/24-10:05:49.465 848 Delete type=0 #3
-2023/06/24-10:05:49.465 848 Delete type=2 #26
-2023/06/24-10:05:49.465 848 Delete type=2 #20
-2023/06/24-10:05:49.465 848 Delete type=0 #22
-2023/06/24-10:05:49.465 848 Delete type=2 #16
-2023/06/24-10:05:49.466 848 Delete type=2 #10
-2023/06/24-10:05:49.466 848 Delete type=0 #12
-2023/06/24-10:05:49.466 848 Delete type=0 #27
-2023/06/24-10:05:49.466 848 Delete type=2 #13
-2023/06/24-10:05:49.466 848 Delete type=2 #23
+2023/06/25-10:23:24.553 865 Reusing MANIFEST /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Local Storage/leveldb/MANIFEST-000001
+2023/06/25-10:23:24.558 865 Recovering log #30
+2023/06/25-10:23:24.559 865 Reusing old log /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Local Storage/leveldb/000030.log 
+2023/06/25-10:23:24.559 865 Delete type=0 #15
+2023/06/25-10:23:24.559 865 Delete type=0 #18
+2023/06/25-10:23:24.559 865 Delete type=0 #4
+2023/06/25-10:23:24.559 865 Delete type=2 #8
+2023/06/25-10:23:24.559 865 Delete type=2 #28
+2023/06/25-10:23:24.559 865 Delete type=0 #9
+2023/06/25-10:23:24.560 865 Delete type=0 #3
+2023/06/25-10:23:24.560 865 Delete type=2 #26
+2023/06/25-10:23:24.560 865 Delete type=2 #20
+2023/06/25-10:23:24.560 865 Delete type=0 #22
+2023/06/25-10:23:24.560 865 Delete type=2 #16
+2023/06/25-10:23:24.560 865 Delete type=2 #10
+2023/06/25-10:23:24.560 865 Delete type=0 #12
+2023/06/25-10:23:24.560 865 Delete type=0 #27
+2023/06/25-10:23:24.560 865 Delete type=2 #13
+2023/06/25-10:23:24.560 865 Delete type=2 #23
