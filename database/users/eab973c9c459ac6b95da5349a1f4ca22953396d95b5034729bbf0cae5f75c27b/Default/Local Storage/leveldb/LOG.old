@@ -1,19 +1,19 @@
-2023/06/28-10:08:35.332 868 Reusing MANIFEST /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Local Storage/leveldb/MANIFEST-000001
-2023/06/28-10:08:35.336 868 Recovering log #30
-2023/06/28-10:08:35.337 868 Reusing old log /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Local Storage/leveldb/000030.log 
-2023/06/28-10:08:35.338 868 Delete type=0 #15
-2023/06/28-10:08:35.338 868 Delete type=0 #18
-2023/06/28-10:08:35.339 868 Delete type=0 #4
-2023/06/28-10:08:35.339 868 Delete type=2 #8
-2023/06/28-10:08:35.339 868 Delete type=2 #28
-2023/06/28-10:08:35.339 868 Delete type=0 #9
-2023/06/28-10:08:35.339 868 Delete type=0 #3
-2023/06/28-10:08:35.339 868 Delete type=2 #26
-2023/06/28-10:08:35.339 868 Delete type=2 #20
-2023/06/28-10:08:35.339 868 Delete type=0 #22
-2023/06/28-10:08:35.339 868 Delete type=2 #16
-2023/06/28-10:08:35.339 868 Delete type=2 #10
-2023/06/28-10:08:35.339 868 Delete type=0 #12
-2023/06/28-10:08:35.339 868 Delete type=0 #27
-2023/06/28-10:08:35.339 868 Delete type=2 #13
-2023/06/28-10:08:35.339 868 Delete type=2 #23
+2023/06/29-10:04:15.182 7eb Reusing MANIFEST /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Local Storage/leveldb/MANIFEST-000001
+2023/06/29-10:04:15.184 7eb Recovering log #30
+2023/06/29-10:04:15.185 7eb Reusing old log /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Local Storage/leveldb/000030.log 
+2023/06/29-10:04:15.186 7eb Delete type=0 #15
+2023/06/29-10:04:15.186 7eb Delete type=0 #27
+2023/06/29-10:04:15.187 7eb Delete type=2 #10
+2023/06/29-10:04:15.187 7eb Delete type=2 #20
+2023/06/29-10:04:15.187 7eb Delete type=0 #22
+2023/06/29-10:04:15.187 7eb Delete type=0 #4
+2023/06/29-10:04:15.187 7eb Delete type=0 #3
+2023/06/29-10:04:15.187 7eb Delete type=0 #12
+2023/06/29-10:04:15.187 7eb Delete type=2 #26
+2023/06/29-10:04:15.187 7eb Delete type=2 #23
+2023/06/29-10:04:15.187 7eb Delete type=2 #13
+2023/06/29-10:04:15.187 7eb Delete type=2 #28
+2023/06/29-10:04:15.187 7eb Delete type=0 #9
+2023/06/29-10:04:15.187 7eb Delete type=2 #16
+2023/06/29-10:04:15.187 7eb Delete type=0 #18
+2023/06/29-10:04:15.187 7eb Delete type=2 #8
