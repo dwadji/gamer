@@ -1,21 +1,32 @@
-2023/06/30-10:03:04.154 839 Reusing MANIFEST /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Session Storage/MANIFEST-000001
-2023/06/30-10:03:04.155 839 Recovering log #41
-2023/06/30-10:03:04.156 839 Reusing old log /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Session Storage/000041.log 
-2023/06/30-10:03:04.157 839 Delete type=2 #10
-2023/06/30-10:03:04.157 839 Delete type=0 #7
-2023/06/30-10:03:04.157 839 Delete type=2 #20
-2023/06/30-10:03:04.157 839 Delete type=0 #22
-2023/06/30-10:03:04.157 839 Delete type=0 #28
-2023/06/30-10:03:04.157 839 Delete type=0 #4
-2023/06/30-10:03:04.157 839 Delete type=0 #31
-2023/06/30-10:03:04.157 839 Delete type=0 #3
-2023/06/30-10:03:04.157 839 Delete type=2 #26
-2023/06/30-10:03:04.157 839 Delete type=2 #23
-2023/06/30-10:03:04.157 839 Delete type=0 #11
-2023/06/30-10:03:04.157 839 Delete type=0 #25
-2023/06/30-10:03:04.157 839 Delete type=2 #14
-2023/06/30-10:03:04.157 839 Delete type=0 #37
-2023/06/30-10:03:04.157 839 Delete type=2 #29
-2023/06/30-10:03:04.157 839 Delete type=0 #18
-2023/06/30-10:03:04.157 839 Delete type=2 #8
-2023/06/30-10:03:04.157 839 Delete type=0 #13
+2023/07/01-10:16:56.143 89d Reusing MANIFEST /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Session Storage/MANIFEST-000001
+2023/07/01-10:16:56.150 89d Recovering log #41
+2023/07/01-10:16:56.151 89d Level-0 table #43: started
+2023/07/01-10:16:56.161 89d Level-0 table #43: 7694 bytes OK
+2023/07/01-10:16:56.166 89d Delete type=2 #10
+2023/07/01-10:16:56.166 89d Delete type=0 #7
+2023/07/01-10:16:56.166 89d Delete type=2 #20
+2023/07/01-10:16:56.166 89d Delete type=0 #22
+2023/07/01-10:16:56.166 89d Delete type=0 #28
+2023/07/01-10:16:56.166 89d Delete type=0 #4
+2023/07/01-10:16:56.166 89d Delete type=0 #31
+2023/07/01-10:16:56.166 89d Delete type=0 #3
+2023/07/01-10:16:56.166 89d Delete type=2 #26
+2023/07/01-10:16:56.166 89d Delete type=2 #23
+2023/07/01-10:16:56.166 89d Delete type=0 #11
+2023/07/01-10:16:56.166 89d Delete type=0 #25
+2023/07/01-10:16:56.166 89d Delete type=2 #14
+2023/07/01-10:16:56.166 89d Delete type=0 #37
+2023/07/01-10:16:56.166 89d Delete type=2 #29
+2023/07/01-10:16:56.166 89d Delete type=0 #41
+2023/07/01-10:16:56.166 89d Delete type=0 #18
+2023/07/01-10:16:56.166 89d Delete type=2 #8
+2023/07/01-10:16:56.166 89d Delete type=0 #13
+2023/07/01-10:16:56.171 89f Compacting 4@0 + 1@1 files
+2023/07/01-10:16:56.196 89f Generated table #45@0: 1118 keys, 27262 bytes
+2023/07/01-10:16:56.196 89f Compacted 4@0 + 1@1 files => 27262 bytes
+2023/07/01-10:16:56.201 89f compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/07/01-10:16:56.202 89f Delete type=2 #33
+2023/07/01-10:16:56.202 89f Delete type=2 #38
+2023/07/01-10:16:56.202 89f Delete type=2 #40
+2023/07/01-10:16:56.202 89f Delete type=2 #36
+2023/07/01-10:16:56.202 89f Delete type=2 #43
