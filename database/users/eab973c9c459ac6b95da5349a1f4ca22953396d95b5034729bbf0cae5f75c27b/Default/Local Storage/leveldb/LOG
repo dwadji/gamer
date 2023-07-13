@@ -1,21 +1,39 @@
-2023/07/12-10:07:37.373 841 Reusing MANIFEST /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Local Storage/leveldb/MANIFEST-000001
-2023/07/12-10:07:37.375 841 Recovering log #36
-2023/07/12-10:07:37.375 841 Reusing old log /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Local Storage/leveldb/000036.log 
-2023/07/12-10:07:37.376 841 Delete type=0 #27
-2023/07/12-10:07:37.376 841 Delete type=0 #18
-2023/07/12-10:07:37.376 841 Delete type=2 #23
-2023/07/12-10:07:37.376 841 Delete type=0 #15
-2023/07/12-10:07:37.376 841 Delete type=2 #20
-2023/07/12-10:07:37.376 841 Delete type=2 #8
-2023/07/12-10:07:37.376 841 Delete type=0 #22
-2023/07/12-10:07:37.377 841 Delete type=0 #30
-2023/07/12-10:07:37.377 841 Delete type=2 #26
-2023/07/12-10:07:37.377 841 Delete type=2 #10
-2023/07/12-10:07:37.377 841 Delete type=2 #28
-2023/07/12-10:07:37.377 841 Delete type=0 #33
-2023/07/12-10:07:37.377 841 Delete type=0 #9
-2023/07/12-10:07:37.377 841 Delete type=0 #12
-2023/07/12-10:07:37.377 841 Delete type=0 #4
-2023/07/12-10:07:37.377 841 Delete type=2 #16
-2023/07/12-10:07:37.377 841 Delete type=0 #3
-2023/07/12-10:07:37.377 841 Delete type=2 #13
+2023/07/13-10:10:55.963 86b Reusing MANIFEST /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Local Storage/leveldb/MANIFEST-000001
+2023/07/13-10:10:55.965 86b Recovering log #36
+2023/07/13-10:10:55.966 86b Reusing old log /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Local Storage/leveldb/000036.log 
+2023/07/13-10:10:55.967 86b Delete type=0 #27
+2023/07/13-10:10:55.967 86b Delete type=0 #18
+2023/07/13-10:10:55.967 86b Delete type=2 #23
+2023/07/13-10:10:55.967 86b Delete type=0 #15
+2023/07/13-10:10:55.967 86b Delete type=2 #20
+2023/07/13-10:10:55.967 86b Delete type=2 #8
+2023/07/13-10:10:55.968 86b Delete type=0 #22
+2023/07/13-10:10:55.968 86b Delete type=0 #30
+2023/07/13-10:10:55.968 86b Delete type=2 #26
+2023/07/13-10:10:55.968 86b Delete type=2 #10
+2023/07/13-10:10:55.968 86b Delete type=2 #28
+2023/07/13-10:10:55.968 86b Delete type=0 #33
+2023/07/13-10:10:55.968 86b Delete type=0 #9
+2023/07/13-10:10:55.968 86b Delete type=0 #12
+2023/07/13-10:10:55.968 86b Delete type=0 #4
+2023/07/13-10:10:55.968 86b Delete type=2 #16
+2023/07/13-10:10:55.968 86b Delete type=0 #3
+2023/07/13-10:10:55.968 86b Delete type=2 #13
+2023/07/13-10:12:05.385 86b Level-0 table #40: started
+2023/07/13-10:12:05.387 86b Level-0 table #40: 7179 bytes OK
+2023/07/13-10:12:05.388 86b Delete type=0 #36
+2023/07/13-10:18:05.384 b2a Level-0 table #42: started
+2023/07/13-10:18:05.386 b2a Level-0 table #42: 6973 bytes OK
+2023/07/13-10:18:05.387 b2a Delete type=0 #39
+2023/07/13-10:18:05.388 b2a Compacting 4@0 + 1@1 files
+2023/07/13-10:18:05.390 b2a Generated table #43@0: 530 keys, 4277 bytes
+2023/07/13-10:18:05.390 b2a Compacted 4@0 + 1@1 files => 4277 bytes
+2023/07/13-10:18:05.390 b2a compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/07/13-10:18:05.391 b2a Delete type=2 #40
+2023/07/13-10:18:05.391 b2a Delete type=2 #31
+2023/07/13-10:18:05.391 b2a Delete type=2 #34
+2023/07/13-10:18:05.391 b2a Delete type=2 #42
+2023/07/13-10:18:05.391 b2a Delete type=2 #37
+2023/07/13-10:27:05.384 b2a Level-0 table #45: started
+2023/07/13-10:27:05.386 b2a Level-0 table #45: 7022 bytes OK
+2023/07/13-10:27:05.387 b2a Delete type=0 #41
