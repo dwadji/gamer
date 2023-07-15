@@ -1,42 +1,38 @@
-2023/07/14-10:09:40.524 8a8 Reusing MANIFEST /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Session Storage/MANIFEST-000001
-2023/07/14-10:09:40.525 8a8 Recovering log #51
-2023/07/14-10:09:40.525 8a8 Reusing old log /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Session Storage/000051.log 
-2023/07/14-10:09:40.527 8a8 Delete type=0 #18
-2023/07/14-10:09:40.527 8a8 Delete type=2 #23
-2023/07/14-10:09:40.527 8a8 Delete type=2 #40
-2023/07/14-10:09:40.527 8a8 Delete type=2 #20
-2023/07/14-10:09:40.527 8a8 Delete type=0 #11
-2023/07/14-10:09:40.527 8a8 Delete type=0 #13
-2023/07/14-10:09:40.527 8a8 Delete type=2 #33
-2023/07/14-10:09:40.527 8a8 Delete type=2 #8
-2023/07/14-10:09:40.527 8a8 Delete type=0 #22
-2023/07/14-10:09:40.527 8a8 Delete type=2 #36
-2023/07/14-10:09:40.527 8a8 Delete type=2 #26
-2023/07/14-10:09:40.527 8a8 Delete type=2 #10
-2023/07/14-10:09:40.527 8a8 Delete type=0 #44
-2023/07/14-10:09:40.527 8a8 Delete type=2 #14
-2023/07/14-10:09:40.527 8a8 Delete type=0 #37
-2023/07/14-10:09:40.527 8a8 Delete type=2 #29
-2023/07/14-10:09:40.528 8a8 Delete type=0 #25
-2023/07/14-10:09:40.528 8a8 Delete type=0 #31
-2023/07/14-10:09:40.528 8a8 Delete type=0 #4
-2023/07/14-10:09:40.528 8a8 Delete type=0 #7
-2023/07/14-10:09:40.528 8a8 Delete type=0 #28
-2023/07/14-10:09:40.528 8a8 Delete type=2 #38
-2023/07/14-10:09:40.528 8a8 Delete type=0 #3
-2023/07/14-10:09:40.528 8a8 Delete type=0 #41
-2023/07/14-10:24:33.583 e42 Level-0 table #55: started
-2023/07/14-10:24:33.585 e42 Level-0 table #55: 7480 bytes OK
-2023/07/14-10:24:33.586 e42 Delete type=0 #51
-2023/07/14-10:24:33.587 e42 Compacting 4@0 + 1@1 files
-2023/07/14-10:24:33.589 e42 Generated table #56@0: 1179 keys, 28374 bytes
-2023/07/14-10:24:33.589 e42 Compacted 4@0 + 1@1 files => 28374 bytes
-2023/07/14-10:24:33.590 e42 compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/07/14-10:24:33.591 e42 Delete type=2 #45
-2023/07/14-10:24:33.591 e42 Delete type=2 #52
-2023/07/14-10:24:33.591 e42 Delete type=2 #47
-2023/07/14-10:24:33.591 e42 Delete type=2 #55
-2023/07/14-10:24:33.591 e42 Delete type=2 #50
-2023/07/14-10:29:52.383 f8a Level-0 table #58: started
-2023/07/14-10:29:52.385 f8a Level-0 table #58: 9537 bytes OK
-2023/07/14-10:29:52.387 f8a Delete type=0 #54
+2023/07/15-10:08:09.146 7fc Reusing MANIFEST /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Session Storage/MANIFEST-000001
+2023/07/15-10:08:09.148 7fc Recovering log #57
+2023/07/15-10:08:09.148 7fc Reusing old log /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Session Storage/000057.log 
+2023/07/15-10:08:09.150 7fc Delete type=2 #45
+2023/07/15-10:08:09.150 7fc Delete type=0 #18
+2023/07/15-10:08:09.150 7fc Delete type=2 #23
+2023/07/15-10:08:09.150 7fc Delete type=2 #40
+2023/07/15-10:08:09.150 7fc Delete type=2 #20
+2023/07/15-10:08:09.150 7fc Delete type=0 #11
+2023/07/15-10:08:09.150 7fc Delete type=0 #51
+2023/07/15-10:08:09.150 7fc Delete type=0 #13
+2023/07/15-10:08:09.150 7fc Delete type=2 #33
+2023/07/15-10:08:09.150 7fc Delete type=2 #8
+2023/07/15-10:08:09.150 7fc Delete type=0 #22
+2023/07/15-10:08:09.150 7fc Delete type=2 #36
+2023/07/15-10:08:09.150 7fc Delete type=2 #52
+2023/07/15-10:08:09.150 7fc Delete type=2 #26
+2023/07/15-10:08:09.150 7fc Delete type=2 #10
+2023/07/15-10:08:09.150 7fc Delete type=2 #47
+2023/07/15-10:08:09.150 7fc Delete type=0 #44
+2023/07/15-10:08:09.150 7fc Delete type=2 #14
+2023/07/15-10:08:09.150 7fc Delete type=0 #37
+2023/07/15-10:08:09.150 7fc Delete type=2 #29
+2023/07/15-10:08:09.150 7fc Delete type=0 #25
+2023/07/15-10:08:09.150 7fc Delete type=0 #31
+2023/07/15-10:08:09.150 7fc Delete type=0 #4
+2023/07/15-10:08:09.150 7fc Delete type=0 #7
+2023/07/15-10:08:09.150 7fc Delete type=0 #28
+2023/07/15-10:08:09.150 7fc Delete type=2 #38
+2023/07/15-10:08:09.150 7fc Delete type=2 #50
+2023/07/15-10:08:09.150 7fc Delete type=0 #3
+2023/07/15-10:08:09.150 7fc Delete type=0 #41
+2023/07/15-10:24:40.592 df5 Level-0 table #61: started
+2023/07/15-10:24:40.593 df5 Level-0 table #61: 8139 bytes OK
+2023/07/15-10:24:40.610 df5 Delete type=0 #57
+2023/07/15-10:31:57.651 df5 Level-0 table #63: started
+2023/07/15-10:31:57.654 df5 Level-0 table #63: 6878 bytes OK
+2023/07/15-10:31:57.657 df5 Delete type=0 #60
