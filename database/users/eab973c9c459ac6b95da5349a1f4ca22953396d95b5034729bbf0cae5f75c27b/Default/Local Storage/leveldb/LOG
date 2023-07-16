@@ -1,31 +1,35 @@
-2023/07/15-10:08:08.876 7fc Reusing MANIFEST /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Local Storage/leveldb/MANIFEST-000001
-2023/07/15-10:08:08.889 7fc Recovering log #51
-2023/07/15-10:08:08.889 7fc Reusing old log /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Local Storage/leveldb/000051.log 
-2023/07/15-10:08:08.890 7fc Delete type=2 #45
-2023/07/15-10:08:08.890 7fc Delete type=0 #27
-2023/07/15-10:08:08.891 7fc Delete type=0 #18
-2023/07/15-10:08:08.891 7fc Delete type=2 #23
-2023/07/15-10:08:08.891 7fc Delete type=0 #36
-2023/07/15-10:08:08.891 7fc Delete type=0 #15
-2023/07/15-10:08:08.891 7fc Delete type=2 #20
-2023/07/15-10:08:08.891 7fc Delete type=2 #31
-2023/07/15-10:08:08.891 7fc Delete type=2 #8
-2023/07/15-10:08:08.891 7fc Delete type=2 #34
-2023/07/15-10:08:08.891 7fc Delete type=0 #22
-2023/07/15-10:08:08.891 7fc Delete type=0 #30
-2023/07/15-10:08:08.891 7fc Delete type=2 #26
-2023/07/15-10:08:08.891 7fc Delete type=2 #10
-2023/07/15-10:08:08.891 7fc Delete type=2 #28
-2023/07/15-10:08:08.891 7fc Delete type=0 #44
-2023/07/15-10:08:08.891 7fc Delete type=0 #33
-2023/07/15-10:08:08.891 7fc Delete type=0 #9
-2023/07/15-10:08:08.891 7fc Delete type=0 #12
-2023/07/15-10:08:08.891 7fc Delete type=0 #4
-2023/07/15-10:08:08.891 7fc Delete type=2 #16
-2023/07/15-10:08:08.891 7fc Delete type=2 #43
-2023/07/15-10:08:08.891 7fc Delete type=2 #37
-2023/07/15-10:08:08.891 7fc Delete type=0 #3
-2023/07/15-10:08:08.891 7fc Delete type=2 #13
-2023/07/15-10:25:18.407 df5 Level-0 table #56: started
-2023/07/15-10:25:18.410 df5 Level-0 table #56: 7039 bytes OK
-2023/07/15-10:25:18.412 df5 Delete type=0 #51
+2023/07/16-10:24:35.902 7f7 Reusing MANIFEST /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Local Storage/leveldb/MANIFEST-000001
+2023/07/16-10:24:35.903 7f7 Recovering log #55
+2023/07/16-10:24:35.905 7f7 Reusing old log /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Local Storage/leveldb/000055.log 
+2023/07/16-10:24:35.907 7f7 Delete type=2 #45
+2023/07/16-10:24:35.907 7f7 Delete type=0 #27
+2023/07/16-10:24:35.907 7f7 Delete type=0 #18
+2023/07/16-10:24:35.907 7f7 Delete type=2 #23
+2023/07/16-10:24:35.907 7f7 Delete type=0 #36
+2023/07/16-10:24:35.907 7f7 Delete type=0 #15
+2023/07/16-10:24:35.907 7f7 Delete type=2 #20
+2023/07/16-10:24:35.907 7f7 Delete type=0 #51
+2023/07/16-10:24:35.907 7f7 Delete type=2 #31
+2023/07/16-10:24:35.907 7f7 Delete type=2 #8
+2023/07/16-10:24:35.907 7f7 Delete type=2 #34
+2023/07/16-10:24:35.907 7f7 Delete type=0 #22
+2023/07/16-10:24:35.907 7f7 Delete type=0 #30
+2023/07/16-10:24:35.907 7f7 Delete type=2 #26
+2023/07/16-10:24:35.908 7f7 Delete type=2 #10
+2023/07/16-10:24:35.908 7f7 Delete type=2 #28
+2023/07/16-10:24:35.908 7f7 Delete type=0 #44
+2023/07/16-10:24:35.908 7f7 Delete type=0 #33
+2023/07/16-10:24:35.908 7f7 Delete type=0 #9
+2023/07/16-10:24:35.908 7f7 Delete type=0 #12
+2023/07/16-10:24:35.908 7f7 Delete type=0 #4
+2023/07/16-10:24:35.908 7f7 Delete type=2 #16
+2023/07/16-10:24:35.908 7f7 Delete type=2 #43
+2023/07/16-10:24:35.908 7f7 Delete type=2 #37
+2023/07/16-10:24:35.908 7f7 Delete type=0 #3
+2023/07/16-10:24:35.908 7f7 Delete type=2 #13
+2023/07/16-10:31:44.310 7f7 Level-0 table #59: started
+2023/07/16-10:31:44.311 7f7 Level-0 table #59: 7049 bytes OK
+2023/07/16-10:31:44.312 7f7 Delete type=0 #55
+2023/07/16-10:40:44.310 7f7 Level-0 table #61: started
+2023/07/16-10:40:44.311 7f7 Level-0 table #61: 7015 bytes OK
+2023/07/16-10:40:44.312 7f7 Delete type=0 #58
