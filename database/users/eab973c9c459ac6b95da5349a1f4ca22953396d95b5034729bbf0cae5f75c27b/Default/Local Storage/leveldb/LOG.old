@@ -1,38 +1,44 @@
-2023/07/19-11:09:35.538 85b Reusing MANIFEST /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Local Storage/leveldb/MANIFEST-000001
-2023/07/19-11:09:35.541 85b Recovering log #73
-2023/07/19-11:09:35.551 85b Reusing old log /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Local Storage/leveldb/000073.log 
-2023/07/19-11:09:35.552 85b Delete type=2 #45
-2023/07/19-11:09:35.552 85b Delete type=0 #27
-2023/07/19-11:09:35.552 85b Delete type=0 #18
-2023/07/19-11:09:35.552 85b Delete type=2 #23
-2023/07/19-11:09:35.552 85b Delete type=0 #36
-2023/07/19-11:09:35.552 85b Delete type=0 #55
-2023/07/19-11:09:35.552 85b Delete type=0 #15
-2023/07/19-11:09:35.552 85b Delete type=2 #20
-2023/07/19-11:09:35.552 85b Delete type=0 #51
-2023/07/19-11:09:35.552 85b Delete type=2 #31
-2023/07/19-11:09:35.553 85b Delete type=2 #8
-2023/07/19-11:09:35.553 85b Delete type=2 #67
-2023/07/19-11:09:35.553 85b Delete type=2 #34
-2023/07/19-11:09:35.553 85b Delete type=0 #22
-2023/07/19-11:09:35.553 85b Delete type=2 #56
-2023/07/19-11:09:35.553 85b Delete type=2 #65
-2023/07/19-11:09:35.553 85b Delete type=0 #30
-2023/07/19-11:09:35.553 85b Delete type=2 #26
-2023/07/19-11:09:35.553 85b Delete type=2 #10
-2023/07/19-11:09:35.553 85b Delete type=2 #28
-2023/07/19-11:09:35.553 85b Delete type=2 #53
-2023/07/19-11:09:35.553 85b Delete type=0 #44
-2023/07/19-11:09:35.553 85b Delete type=0 #33
-2023/07/19-11:09:35.553 85b Delete type=0 #9
-2023/07/19-11:09:35.553 85b Delete type=2 #59
-2023/07/19-11:09:35.553 85b Delete type=0 #12
-2023/07/19-11:09:35.553 85b Delete type=0 #4
-2023/07/19-11:09:35.553 85b Delete type=2 #16
-2023/07/19-11:09:35.553 85b Delete type=2 #43
-2023/07/19-11:09:35.553 85b Delete type=0 #60
-2023/07/19-11:09:35.554 85b Delete type=2 #61
-2023/07/19-11:09:35.554 85b Delete type=2 #37
-2023/07/19-11:09:35.554 85b Delete type=0 #3
-2023/07/19-11:09:35.554 85b Delete type=2 #13
-2023/07/19-11:09:35.554 85b Delete type=0 #66
+2023/07/20-09:47:05.254 85e Reusing MANIFEST /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Local Storage/leveldb/MANIFEST-000001
+2023/07/20-09:47:05.255 85e Recovering log #73
+2023/07/20-09:47:05.256 85e Reusing old log /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Local Storage/leveldb/000073.log 
+2023/07/20-09:47:05.257 85e Delete type=2 #45
+2023/07/20-09:47:05.257 85e Delete type=0 #27
+2023/07/20-09:47:05.257 85e Delete type=0 #18
+2023/07/20-09:47:05.257 85e Delete type=2 #23
+2023/07/20-09:47:05.257 85e Delete type=0 #36
+2023/07/20-09:47:05.257 85e Delete type=0 #55
+2023/07/20-09:47:05.257 85e Delete type=0 #15
+2023/07/20-09:47:05.257 85e Delete type=2 #20
+2023/07/20-09:47:05.257 85e Delete type=0 #51
+2023/07/20-09:47:05.257 85e Delete type=2 #31
+2023/07/20-09:47:05.257 85e Delete type=2 #8
+2023/07/20-09:47:05.257 85e Delete type=2 #67
+2023/07/20-09:47:05.257 85e Delete type=2 #34
+2023/07/20-09:47:05.257 85e Delete type=0 #22
+2023/07/20-09:47:05.257 85e Delete type=2 #56
+2023/07/20-09:47:05.257 85e Delete type=2 #65
+2023/07/20-09:47:05.257 85e Delete type=0 #30
+2023/07/20-09:47:05.257 85e Delete type=2 #26
+2023/07/20-09:47:05.258 85e Delete type=2 #10
+2023/07/20-09:47:05.258 85e Delete type=2 #28
+2023/07/20-09:47:05.258 85e Delete type=2 #53
+2023/07/20-09:47:05.258 85e Delete type=0 #44
+2023/07/20-09:47:05.258 85e Delete type=0 #33
+2023/07/20-09:47:05.258 85e Delete type=0 #9
+2023/07/20-09:47:05.258 85e Delete type=2 #59
+2023/07/20-09:47:05.258 85e Delete type=0 #12
+2023/07/20-09:47:05.258 85e Delete type=0 #4
+2023/07/20-09:47:05.258 85e Delete type=2 #16
+2023/07/20-09:47:05.258 85e Delete type=2 #43
+2023/07/20-09:47:05.258 85e Delete type=0 #60
+2023/07/20-09:47:05.258 85e Delete type=2 #61
+2023/07/20-09:47:05.258 85e Delete type=2 #37
+2023/07/20-09:47:05.258 85e Delete type=0 #3
+2023/07/20-09:47:05.258 85e Delete type=2 #13
+2023/07/20-09:47:05.258 85e Delete type=0 #66
+2023/07/20-09:48:13.139 85e Level-0 table #78: started
+2023/07/20-09:48:13.140 85e Level-0 table #78: 6986 bytes OK
+2023/07/20-09:48:13.155 85e Delete type=0 #73
+2023/07/20-10:05:13.139 860 Level-0 table #80: started
+2023/07/20-10:05:13.141 860 Level-0 table #80: 7013 bytes OK
+2023/07/20-10:05:13.142 860 Delete type=0 #77
