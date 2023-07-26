@@ -1,44 +1,59 @@
-2023/07/24-09:48:54.056 84d Reusing MANIFEST /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Session Storage/MANIFEST-000001
-2023/07/24-09:48:54.057 84d Recovering log #87
-2023/07/24-09:48:54.059 84d Reusing old log /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Session Storage/000087.log 
-2023/07/24-09:48:54.060 84d Delete type=2 #45
-2023/07/24-09:48:54.060 84d Delete type=0 #78
-2023/07/24-09:48:54.060 84d Delete type=0 #18
-2023/07/24-09:48:54.061 84d Delete type=2 #23
-2023/07/24-09:48:54.061 84d Delete type=2 #40
-2023/07/24-09:48:54.061 84d Delete type=2 #20
-2023/07/24-09:48:54.061 84d Delete type=0 #11
-2023/07/24-09:48:54.061 84d Delete type=0 #51
-2023/07/24-09:48:54.061 84d Delete type=0 #13
-2023/07/24-09:48:54.061 84d Delete type=2 #33
-2023/07/24-09:48:54.061 84d Delete type=2 #8
-2023/07/24-09:48:54.061 84d Delete type=2 #69
-2023/07/24-09:48:54.061 84d Delete type=0 #22
-2023/07/24-09:48:54.061 84d Delete type=2 #56
-2023/07/24-09:48:54.061 84d Delete type=2 #72
-2023/07/24-09:48:54.061 84d Delete type=0 #84
-2023/07/24-09:48:54.061 84d Delete type=2 #36
-2023/07/24-09:48:54.061 84d Delete type=2 #52
-2023/07/24-09:48:54.061 84d Delete type=2 #26
-2023/07/24-09:48:54.061 84d Delete type=2 #10
-2023/07/24-09:48:54.061 84d Delete type=2 #47
-2023/07/24-09:48:54.061 84d Delete type=0 #44
-2023/07/24-09:48:54.061 84d Delete type=0 #62
-2023/07/24-09:48:54.062 84d Delete type=2 #14
-2023/07/24-09:48:54.062 84d Delete type=0 #37
-2023/07/24-09:48:54.062 84d Delete type=2 #29
-2023/07/24-09:48:54.062 84d Delete type=0 #25
-2023/07/24-09:48:54.062 84d Delete type=0 #73
-2023/07/24-09:48:54.062 84d Delete type=0 #31
-2023/07/24-09:48:54.062 84d Delete type=0 #4
-2023/07/24-09:48:54.062 84d Delete type=0 #7
-2023/07/24-09:48:54.062 84d Delete type=2 #74
-2023/07/24-09:48:54.062 84d Delete type=0 #28
-2023/07/24-09:48:54.062 84d Delete type=2 #61
-2023/07/24-09:48:54.062 84d Delete type=2 #38
-2023/07/24-09:48:54.062 84d Delete type=2 #50
-2023/07/24-09:48:54.062 84d Delete type=0 #57
-2023/07/24-09:48:54.062 84d Delete type=2 #63
-2023/07/24-09:48:54.062 84d Delete type=0 #3
-2023/07/24-09:48:54.062 84d Delete type=0 #67
-2023/07/24-09:48:54.062 84d Delete type=0 #41
+2023/07/25-09:59:16.656 857 Reusing MANIFEST /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Session Storage/MANIFEST-000001
+2023/07/25-09:59:16.657 857 Recovering log #87
+2023/07/25-09:59:16.657 857 Reusing old log /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/Session Storage/000087.log 
+2023/07/25-09:59:16.659 857 Delete type=2 #45
+2023/07/25-09:59:16.659 857 Delete type=0 #78
+2023/07/25-09:59:16.659 857 Delete type=0 #18
+2023/07/25-09:59:16.659 857 Delete type=2 #23
+2023/07/25-09:59:16.659 857 Delete type=2 #40
+2023/07/25-09:59:16.659 857 Delete type=2 #20
+2023/07/25-09:59:16.659 857 Delete type=0 #11
+2023/07/25-09:59:16.659 857 Delete type=0 #51
+2023/07/25-09:59:16.659 857 Delete type=0 #13
+2023/07/25-09:59:16.659 857 Delete type=2 #33
+2023/07/25-09:59:16.659 857 Delete type=2 #8
+2023/07/25-09:59:16.659 857 Delete type=2 #69
+2023/07/25-09:59:16.659 857 Delete type=0 #22
+2023/07/25-09:59:16.659 857 Delete type=2 #56
+2023/07/25-09:59:16.659 857 Delete type=2 #72
+2023/07/25-09:59:16.659 857 Delete type=0 #84
+2023/07/25-09:59:16.659 857 Delete type=2 #36
+2023/07/25-09:59:16.659 857 Delete type=2 #52
+2023/07/25-09:59:16.659 857 Delete type=2 #26
+2023/07/25-09:59:16.659 857 Delete type=2 #10
+2023/07/25-09:59:16.659 857 Delete type=2 #47
+2023/07/25-09:59:16.659 857 Delete type=0 #44
+2023/07/25-09:59:16.660 857 Delete type=0 #62
+2023/07/25-09:59:16.660 857 Delete type=2 #14
+2023/07/25-09:59:16.660 857 Delete type=0 #37
+2023/07/25-09:59:16.660 857 Delete type=2 #29
+2023/07/25-09:59:16.660 857 Delete type=0 #25
+2023/07/25-09:59:16.660 857 Delete type=0 #73
+2023/07/25-09:59:16.660 857 Delete type=0 #31
+2023/07/25-09:59:16.660 857 Delete type=0 #4
+2023/07/25-09:59:16.660 857 Delete type=0 #7
+2023/07/25-09:59:16.660 857 Delete type=2 #74
+2023/07/25-09:59:16.660 857 Delete type=0 #28
+2023/07/25-09:59:16.660 857 Delete type=2 #61
+2023/07/25-09:59:16.660 857 Delete type=2 #38
+2023/07/25-09:59:16.660 857 Delete type=2 #50
+2023/07/25-09:59:16.660 857 Delete type=0 #57
+2023/07/25-09:59:16.660 857 Delete type=2 #63
+2023/07/25-09:59:16.660 857 Delete type=0 #3
+2023/07/25-09:59:16.660 857 Delete type=0 #67
+2023/07/25-09:59:16.660 857 Delete type=0 #41
+2023/07/25-10:13:30.732 e20 Level-0 table #91: started
+2023/07/25-10:13:30.734 e20 Level-0 table #91: 8659 bytes OK
+2023/07/25-10:13:30.735 e20 Delete type=0 #87
+2023/07/25-10:13:30.735 e20 Compacting 4@0 + 1@1 files
+2023/07/25-10:13:30.738 e20 Generated table #92@0: 1814 keys, 34907 bytes
+2023/07/25-10:13:30.738 e20 Compacted 4@0 + 1@1 files => 34907 bytes
+2023/07/25-10:13:30.738 e20 compacted to: files[ 0 1 2 0 0 0 0 ]
+2023/07/25-10:13:30.739 e20 Delete type=2 #91
+2023/07/25-10:13:30.739 e20 Delete type=2 #83
+2023/07/25-10:13:30.739 e20 Delete type=2 #88
+2023/07/25-10:13:30.739 e20 Delete type=2 #80
+2023/07/25-10:13:30.739 e20 Delete type=2 #85
+2023/07/25-10:22:05.980 ed9 Level-0 table #94: started
+2023/07/25-10:22:05.982 ed9 Level-0 table #94: 9532 bytes OK
+2023/07/25-10:22:05.983 ed9 Delete type=0 #90
