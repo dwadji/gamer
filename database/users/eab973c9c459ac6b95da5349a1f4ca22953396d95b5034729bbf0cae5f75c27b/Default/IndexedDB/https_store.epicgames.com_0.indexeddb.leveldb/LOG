@@ -1,4 +1,4 @@
-2023/07/26-09:51:50.136 87a Reusing MANIFEST /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/07/26-09:51:50.137 87a Recovering log #4
-2023/07/26-09:51:50.137 87a Reusing old log /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb/000004.log 
-2023/07/26-09:51:50.137 87a Delete type=0 #3
+2023/07/27-09:37:26.596 868 Reusing MANIFEST /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/27-09:37:26.596 868 Recovering log #4
+2023/07/27-09:37:26.596 868 Reusing old log /home/runner/work/gamer/gamer/epic/src/database/users/eab973c9c459ac6b95da5349a1f4ca22953396d95b5034729bbf0cae5f75c27b/Default/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb/000004.log 
+2023/07/27-09:37:26.596 868 Delete type=0 #3
